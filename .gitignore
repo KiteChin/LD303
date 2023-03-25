@@ -1,8 +1,19 @@
 # git ignore file for Keil µVision Project
 
+# Visual Studio Code #
+.vscode/
+!.vscode/settings.json
+!.vscode/c_cpp_properties.json
+
+# Other Files
+Output/
+Listing/
+*.log
+
 # µVision 5 and µVision 4 Project screen layout file
 *.uvguix.*
 *.uvgui.*
+*.uvoptx
 
 # Listing Files
 *.i
@@ -42,5 +53,3 @@
 
 # JLink Files
 JLinkLog.txt
-
-# Other Files
