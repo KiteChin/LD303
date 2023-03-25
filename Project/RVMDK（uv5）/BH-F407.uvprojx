@@ -313,7 +313,7 @@
           </ArmAdsMisc>
           <Cads>
             <interw>1</interw>
-            <Optim>1</Optim>
+            <Optim>2</Optim>
             <oTime>0</oTime>
             <SplitLS>0</SplitLS>
             <OneElfS>1</OneElfS>
@@ -775,6 +775,11 @@
               <FileName>ld303_bsp.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\User\ld303_bsp.c</FilePath>
+            </File>
+            <File>
+              <FileName>timer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\User\timer.c</FilePath>
             </File>
           </Files>
         </Group>
