@@ -8,6 +8,10 @@
         "sys.h": "c",
         "delay.h": "c",
         "ld303_bsp.h": "c",
-        "stm32f4xx.h": "c"
+        "stm32f4xx.h": "c",
+        "time.h": "c",
+        "gui.h": "c",
+        "timer.h": "c",
+        "stdio.h": "c"
     }
 }
